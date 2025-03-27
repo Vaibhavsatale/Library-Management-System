@@ -1,5 +1,3 @@
-package digitalLibraryBookManagementSystem;
-
 import java.util.Scanner;
 import java.util.Collection;
 
