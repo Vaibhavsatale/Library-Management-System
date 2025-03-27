@@ -10,14 +10,15 @@ A Java application for managing library books with CRUD operations.
 - Delete books
 
 ## How to Run
-1. Clone repository: git clone [repo-url]
+1. Clone repository: git clone [https://github.com/Vaibhavsatale/Library-Management-System]
 2. Compile: javac src/LibraryApp.java
 3. Run: java src/LibraryApp
 
 ### On Replit 
-[![Run on Replit](https://replit.com/@vaibhavsatale13/Library-Management-System)
-1. Click the "Run" button
-2. Follow console menu prompts
+[https://replit.com/@vaibhavsatale13/Library-Management-System]
+1. Visit the Link 
+2. Click the "Run" button
+3. Follow console menu prompts
 
 ## Requirements
 - Java 8 or higher
