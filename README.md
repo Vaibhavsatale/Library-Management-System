@@ -14,5 +14,10 @@ A Java application for managing library books with CRUD operations.
 2. Compile: javac src/LibraryApp.java
 3. Run: java src/LibraryApp
 
+### On Replit 
+[![Run on Replit](https://replit.com/@vaibhavsatale13/Library-Management-System)
+1. Click the "Run" button
+2. Follow console menu prompts
+
 ## Requirements
 - Java 8 or higher
